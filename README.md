@@ -2,9 +2,8 @@
 <head>
  欢迎来到我的第一个网页<hr/>
  <style>  
-      body{
-          background-image: url(QQ图片20191216150112.jpg);
-      }
+          background-image: url="QQ图片20191216150112.jpg"
+
   <style/>
 </head>
 <body>
