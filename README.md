@@ -2,9 +2,7 @@
 <head>
  
  <font color="#0000FF">欢迎来到我的第一个网页<hr/> </font>
- <BODY background="QQ图片20191216150112.jpg">
-         
-</head>
+ <BODY background="QQ图片20191216150112.jpg"
 
 <body>
  <h1>
