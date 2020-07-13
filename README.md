@@ -1,10 +1,7 @@
 <html>
 <head>
- 欢迎来到我的第一个网页<hr/>
- <style>  
+ 欢迎来到我的第一个网页<hr/> 
          <background-image: url="QQ图片20191216150112.jpg"/>
-
-  <style/>
 </head>
 <body>
  <h1>
