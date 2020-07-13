@@ -12,8 +12,8 @@
   <font color="#0000FF">我一定会继续努力，永不放弃哒</font> 
  </p>
  <p>
-  欢迎点击一下链接加入我一起学习
-  <a href="https://www.w3school.com.cn/html/html_basic.asp"> W3school中文网 <a>
+  欢迎点击以下链接加入我一起学习
+  <a href="https://www.w3school.com.cn/html/html_basic.asp"> W3school中文网 </a>
  </p>
 </body>
 </html>
