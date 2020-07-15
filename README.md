@@ -1,7 +1,7 @@
 <html>
 <head>
  
- <h1 style="color:white;text-align:center"><img src="黑色背景蓝色小星球.gif" width="130" height="130"; align="middle";alt="图片无法显示"/><b>欢迎来到我的第一个网页</b><img src="黑色背景蓝色小星球.gif" width="130" height="130"; align="middle";alt="图片无法显示"/></h1>
+ <h1 style="color:white;text-align:center"><img src="黑色背景蓝色小星球.gif" width="130" height="130" align="middle"alt="图片无法显示"/><b>欢迎来到我的第一个网页</b><img src="黑色背景蓝色小星球.gif" width="130" height="130" align="middle"alt="图片无法显示"/></h1>
 
 </head>
 <body background="代码雨2.gif" style="color:green">
